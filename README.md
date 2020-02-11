@@ -2,14 +2,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/PeiP-2018-Work-Nantes-DUT-INFO/SimpleGoHttp">
-    <img src="images/logo.png" width="200" alt="Logo" >
+    <img src="images/logo_transparent_rect.png" width="500" alt="Logo" >
   </a>
-
-  <h2 align="center">SimpleGoHttp</h2>
-
-  <p align="center">
-    A simple static web server written in Go !
-  </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
